@@ -34,11 +34,8 @@ const AddCoffee = () => {
       })
       
      }
-
-
-
   return (
-    <div className=" bg-[#F4F3F0] p-24">
+    <div className=" bg-[#F4F3F0] p-24 h-[900px]">
       <h2 className="text-black text-3xl text-center mb-3 font-bold">Add a coffee</h2>
       <form onSubmit={handleAddCoffee}>
         {/* name and quantity row */}

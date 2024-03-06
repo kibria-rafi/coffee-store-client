@@ -1,8 +1,8 @@
-# React + Vite
+# Coffe Store client
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I's a coffee shop client side.(website)
+This webpage make for mongodb Crud operation.
+A user can easily create post form client side.
+A user can easily read post form client side.
+A user can easily Update post form client side.
+A user can easily Delete post form client side.
